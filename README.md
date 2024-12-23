@@ -54,11 +54,11 @@ or
 yum build
 ```
 
-The production-ready files will be created in the dist folder.
+The production-ready files will be created in the `dist` folder.
 
 
 # Scripts
 
-- dev: Starts the development server.
-- build: Bundles the app for production.
-- preview: Preview the production build locally.
+- `dev`: Starts the development server.
+- `build`: Bundles the app for production.
+- `preview`: Preview the production build locally.
