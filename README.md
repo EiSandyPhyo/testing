@@ -38,7 +38,7 @@ or
 yum dev
 ```
 
-Open your browser and visit http://localhost:3000 to see your app in action.
+Open your browser and visit `http://localhost:3000` to see your app in action.
 
 # Build for Production
 
