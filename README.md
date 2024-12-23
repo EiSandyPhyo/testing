@@ -21,6 +21,8 @@ Using npm:
 npm install
 ```
 
+or
+
 Using yarn:
 ```bash
 yum install
